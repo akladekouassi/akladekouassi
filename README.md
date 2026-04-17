@@ -21,9 +21,9 @@
 
 ### 🚀 What I'm building
 
-- **[runilib/runilib](https://github.com/runilib/runilib)** — an open-source collection of React & React Native libraries that share a single codebase across web and native.
-- **[@runilib/react-formbridge](https://github.com/runilib/react-formbridge)** — schema-first forms for React and React Native. Define a schema once, generate fields, validation and persistence across platforms.
-- **[@runilib/react-walkit](https://github.com/runilib/react-walkit)** — cross-platform onboarding tours and guided walkthroughs with spotlight, tooltips and multi-screen flows.
+- **[runilib/runilib](https://github.com/runilib/runilib)** - an open-source collection of React & React Native libraries that share a single codebase across web and native.
+- **[@runilib/react-formbridge](https://github.com/runilib/react-formbridge)** - schema-first forms for React and React Native. Define a schema once, generate fields, validation and persistence across platforms.
+- **[@runilib/react-walkit](https://github.com/runilib/react-walkit)** - cross-platform onboarding tours and guided walkthroughs with spotlight, tooltips and multi-screen flows.
 
 > 🧪 Want to try it? `npm install @runilib/react-formbridge` or `npm install @runilib/react-walkit`.
 
