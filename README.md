@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Aklade</h1>
 
 <p align="center">
-  <b>Frontend developer · Paris 🇫🇷 · Groupe SNCF</b><br/>
+  <b>Frontend developer · Paris 🇫🇷 · Groupe Société Générale</b><br/>
   <i>I build cross-platform React & React Native libraries at <a href="https://runilib.dev">runilib.dev</a> — one codebase, web &amp; native.</i>
 </p>
 
